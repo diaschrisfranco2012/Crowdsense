@@ -13,3 +13,5 @@ __pycache__/
 # Ignore Virtual Environment (if you have one)
 venv/
 .env
+
+.ipynb_checkpoints
