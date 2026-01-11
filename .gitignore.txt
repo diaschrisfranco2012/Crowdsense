@@ -1,0 +1,15 @@
+# Ignore huge video files
+*.mp4
+*.avi
+*.mov
+
+# Ignore the Output folder
+Outputs/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Virtual Environment (if you have one)
+venv/
+.env
